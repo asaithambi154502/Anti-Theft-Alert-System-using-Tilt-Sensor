@@ -69,7 +69,7 @@ void loop()
 
 ## Output: 
 
-https://github.com/user-attachments/assets/37a46374-1e5d-44b7-81d6-c8def14d7df8
+https://github.com/user-attachments/assets/74c74f9a-e92b-4f72-8da9-2c0ad0c729c1
 
 
 ## Result:
